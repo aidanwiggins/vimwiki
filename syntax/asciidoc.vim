@@ -1,0 +1,1 @@
+# Adciidoc support for vimwiki
