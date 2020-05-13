@@ -1,0 +1,1 @@
+# Adciidoctor support for vimwiki
